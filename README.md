@@ -3,13 +3,13 @@ SoundSpace is a social media platform for music lovers. Users can rate and revie
 
 ### Features
 Rate and Review Songs: Registered users can rate songs and write detailed reviews to share their opinions with the community.
-Authentication & Authorization:
+- Authentication & Authorization:
 * Secure sign-up and login for users.
 *  Only authenticated users can post reviews or ratings.
 *  Viewers can browse the app without signing in.
 ### Homepage Highlights:
 - Displays the highest-rated songs prominently.
 - Allows users to discover popular tracks at a glance.
-Search Functionality:
-- Search for specific songs using a dynamic search bar powered by TypeScript.
-- Instant results for easier navigation and discovery.
+* Search Functionality:
+* Search for specific songs using a dynamic search bar powered by TypeScript.
+* Instant results for easier navigation and discovery.
